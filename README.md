@@ -6,7 +6,7 @@ My notes from Professor Messer videos, Pocket Prep quizzes, and key takeaways wh
 | Domain | Weight | Status | Notes File |
 |--------|--------|--------|------------|
 | 1. General Security Concepts | 12% | ✅ Complete | [domain-1-general-security.md](domain-1-general-security.md) |
-| 2. Threats, Vulnerabilities & Mitigations | 22% | ⏳ Planned | [domain-2.md](domain-2.md) |
+| 2. Threats, Vulnerabilities & Mitigations | 22% | ⏳ Planned | [domain-2-threats-vulnerabilities.md](domain-2-threats-vulnerabilities.md) |
 | 3. Security Architecture | 18% | ⏳ Planned | [domain-3.md](domain-3.md) |
 | 4. Security Operations | 28% | ⏳ Planned | [domain-4.md](domain-4.md) |
 | 5. Security Program Management | 20% | ⏳ Planned | [domain-5.md](domain-5.md) |
