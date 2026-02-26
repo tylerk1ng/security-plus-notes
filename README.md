@@ -15,6 +15,5 @@ My notes from Professor Messer videos, Pocket Prep quizzes, and key takeaways wh
 - Videos: Professor Messer SY0-701 playlist (20 min/day).
 - Practice: Pocket Prep app quizzes (aim 85%+).
 - Labs: TryHackMe SOC Level 1 rooms.
-- Goal: Exam by summer 2026.
 
 **Commits track daily progress.**
