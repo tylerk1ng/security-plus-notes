@@ -23,3 +23,8 @@
 - Encryption, monitoring (SIEM), least privilege, hardening.
 
 **THM Tie-in:** Pre-Security rooms (phishing, threats).
+
+## Hands-On Linux Practice (Feb 26)
+- Warmup: `touch cyber-feb26.txt; echo "Domain 2 practice" > cyber-feb26.txt`
+- Verified: `cat` (content), `grep "Domain"` (filter), `rm` (cleanup) in /tmp
+- Ties to 2.3: Vuln scanning/logs.
