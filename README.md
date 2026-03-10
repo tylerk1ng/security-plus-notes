@@ -1,4 +1,7 @@
 # Security+ SY0-701 Study Notes
+## A Note on This Repo
+Notes in this repo reflect my own understanding. Code and formatting were assisted by AI while I was learning the basics
+After starting these Sec+ notes, I recognized gaps in my networking fundamentals and stepped back to build a stronger foundation through Net+ before continuing. Current active study is in the net-plus/ folder.
 
 My notes from Professor Messer videos, Pocket Prep quizzes, and key takeaways while prepping for CompTIA Security+ exam. SUNY Cybersecurity BS student tracking progress toward SOC roles.
 
