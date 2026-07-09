@@ -12,11 +12,11 @@ My notes from Professor Messer videos, Pocket Prep quizzes, and key takeaways wh
 | 2. Threats, Vulnerabilities & Mitigations | 22% | ✅ Complete | [domain-2-threats-vulnerabilities.md](domain-2-threats-vulnerabilities.md) |
 | 3. Security Architecture | 18% | ⏳ In Progress | [domain-3-security-architecture.md](domain-3-security-architecture.md) |
 | 4. Security Operations | 28% | ⏳ In Progress | [domain-4-security-operations.md](domain-4-security-operations.md)  |
-| 5. Security Program Management | 20% | ⏳ In Progress | [domain-5.md](domain-5.md) |
+| 5. Security Program Management | 20% | ⏳ In Progress | [domain-5-security-program-management.md](domain-5-security-program-management.md) |
 
 ## Study Routine
-- Videos: Professor Messer SY0-701 playlist (20 min/day).
-- Practice: Pocket Prep app quizzes (aim 85%+).
-- Labs: TryHackMe SOC Level 1 rooms.
+- Videos: Professor Messer SY0-701 playlist (30 min/day).
+- Practice: Professor Messer practice exams, Dion Training practice exams
+- Labs: TryHackMe Pre Security, Cyber Security 101
 
 **Commits track daily progress.**
