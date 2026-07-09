@@ -1,6 +1,6 @@
-# Domain 2: Threats, Vulnerabilities, & Mitigations
+# Domain 2: Threats, Vulnerabilities, & Mitigations (22%)
 
-**Date:** Feb 25, 2026 | **Status:** In Progress ✅
+**Date:** Feb 25, 2026 | **Status:** Complete ✅
 
 ## 2.1 Threat Actors & Motivations
 - Types: Nation-state, hacktivists, insiders, cybercriminals.
