@@ -1,6 +1,7 @@
-# Domain 3: Security Architecture
+# Domain 3: Security Architecture (18%)
 
-**Date:** Jul 9, 2026 | **Status:** In Progress ⏳
+**Date:** Jul 9, 2026 | **Status:** Complete ✅
+
 
 ## 3.1 Architecture Models
 - Concepts: Enterprise, zero trust, defense in depth, secure by design.
