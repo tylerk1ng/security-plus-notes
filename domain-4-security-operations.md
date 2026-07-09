@@ -3,17 +3,17 @@
 **Date:** Jul 9, 2026 | **Status:** In Progress ⏳
 
 ## Sections Completed
-- 4.1: Security Techniques for Computing Resources
+- 4.1: Security Techniques
 - 4.2: Asset Management
 - 4.3: Vulnerability Management
-- 4.4: Alerting & Monitoring
-- 4.5: Enhancing Enterprise Security
+- 4.4: Security Monitoring
+- 4.5: Enterprise Security
 - 4.6: Identity & Access Management
 - 4.7: Automation & Orchestration
 - 4.8: Incident Response
-- 4.9: Data Sources for Investigations
+- 4.9: Security Data Sources
 
-## 4.1 Security Techniques for Computing Resources
+## 4.1 Security Techniques
 - Secure baselines and hardening for endpoints, servers, network devices, cloud, and mobile devices.
 - Wireless security: WPA2/WPA3, site surveys, heat maps, and secure configuration.
 - Application security: input validation, code signing, secure cookies, sandboxing, and monitoring.
@@ -31,13 +31,13 @@
 - Remediate with patching, configuration changes, segmentation, or compensating controls.
 - Validate fixes and report on results.
 
-## 4.4 Alerting & Monitoring
+## 4.4 Security Monitoring
 - Monitor logs, endpoints, servers, applications, and network traffic.
 - Activities: log aggregation, alerting, scanning, reporting, and tuning detections.
 - Tools: SIEM, antivirus, DLP, vulnerability scanners, SNMP, NetFlow.
 - Goal: detect suspicious behavior early and respond faster.
 
-## 4.5 Enhancing Enterprise Security
+## 4.5 Enterprise Security
 - Strengthen security with firewalls, IDS/IPS, NAC, EDR/XDR, web filters, and secure protocols.
 - Improve email protection with SPF, DKIM, and DMARC.
 - Use OS and network security controls like Group Policy, ACLs, SELinux, and segmentation.
@@ -61,7 +61,7 @@
 - Includes root cause analysis, threat hunting, and evidence handling.
 - Goal: respond quickly, contain damage, and improve future readiness.
 
-## 4.9 Data Sources for Investigations
+## 4.9 Security Data Sources
 - Use logs from firewalls, servers, endpoints, applications, and identity systems.
 - Review packet captures, metadata, alerts, vulnerability scans, dashboards, and reports.
 - Correlate multiple data sources to understand scope, timeline, and impact.
