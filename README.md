@@ -1,6 +1,6 @@
 # Security+ SY0-701 Study Notes
 ## A Note on This Repo
-This repo tracks my preparation for the CompTIA Security+ (SY0-701) exam using structured, domain‑based study notes. It’s primarily written for my own review while I move from truck driving into cybersecurity and start my BS in Cybersecurity at SUNY Canton.
+This repo tracks my preparation for the CompTIA Security+ (SY0-701) exam using structured, domain‑based study notes. It’s primarily written for my own review while I move from truck driving into cybersecurity and complete my BS in Cybersecurity.
 
 Each markdown file maps directly to an exam domain and summarizes key topics from Professor Messer videos, practice questions, and TryHackMe labs in my own words. The goal is to keep the notes lightweight, high‑yield, and easy to scan before practice exams or when revisiting weak areas.
 
@@ -9,8 +9,6 @@ Notes in this repo reflect my own understanding. Some formatting and phrasing we
 Earlier in this journey I stepped back to strengthen my Network+ fundamentals, which are documented in the `net-plus/` folder. That review is now complete, and this repo is my primary review resource as I get ready to sit the Security+ exam.
 
 I’ve made this public so other learners can see how I organize Security+ studies and so recruiters can see evidence of consistent, documented learning toward entry‑level SOC and security analyst roles. This is a living repo: I update domain files and the README status as my study plan evolves.
-
-My notes from Professor Messer videos, Pocket Prep quizzes, and key takeaways while prepping for CompTIA Security+ exam. SUNY Cybersecurity BS student tracking progress toward SOC roles.
 
 ## Domains Progress
 | Domain | Weight | Status | Notes File |
