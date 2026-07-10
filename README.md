@@ -16,7 +16,7 @@ I’ve made this public so other learners can see how I organize Security+ studi
 | 1. General Security Concepts | 12% | ✅ Complete | [domain-1-general-security.md](domain-1-general-security.md) |
 | 2. Threats, Vulnerabilities & Mitigations | 22% | ✅ Complete | [domain-2-threats-vulnerabilities.md](domain-2-threats-vulnerabilities.md) |
 | 3. Security Architecture | 18% | ✅ Complete | [domain-3-security-architecture.md](domain-3-security-architecture.md) |
-| 4. Security Operations | 28% | ⏳ In Progress | [domain-4-security-operations.md](domain-4-security-operations.md)  |
+| 4. Security Operations | 28% | ✅ Complete | [domain-4-security-operations.md](domain-4-security-operations.md)  |
 | 5. Security Program Management | 20% | ⏳ In Progress | [domain-5-security-program-management.md](domain-5-security-program-management.md) |
 
 ## Study Routine
